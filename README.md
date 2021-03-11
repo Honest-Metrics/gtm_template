@@ -1,8 +1,9 @@
 
 -------------------------
-:link: Страница сервиса: https://honest-metrics.com/
 
-:speech_balloon: Документация: https://honest-metrics.com/gtm
+:link: Official page: https://honest-metrics.com/
+
+:speech_balloon: Official documentation: https://honest-metrics.com/gtm
 
 -------------------------
 
