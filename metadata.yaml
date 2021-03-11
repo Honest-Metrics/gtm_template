@@ -1,0 +1,5 @@
+homepage: "https://honest-metrics.com"
+documentation: "https://honest-metrics.com/gtm"
+versions:
+  - sha: 8adc7771af7df343cf7d91a0ff3853e9d2fc9602
+    changeNotes: Initial release.
