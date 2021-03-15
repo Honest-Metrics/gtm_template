@@ -5,6 +5,8 @@
 
 :speech_balloon: Official documentation: https://honest-metrics.com/gtm
 
+:link: Template page in GTM gallery: https://tagmanager.google.com/gallery/#/owners/Honest-Metrics/templates/gtm_template
+
 -------------------------
 
 **Input data:**
