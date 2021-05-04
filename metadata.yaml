@@ -1,5 +1,9 @@
 homepage: "https://honest-metrics.com"
 documentation: "https://honest-metrics.com/gtm"
 versions:
+  # Latest version
+  - sha: 75c8d5d34a6eb56cfe8218d1861595f6b3fb103d
+    changeNotes: GetRandom() has been deleted. Returned the ability to cache. Asynchronous script.
+  # Older versions
   - sha: d0fcb457b59e38c05cca16437930b644bd4596c1
     changeNotes: Initial release.
