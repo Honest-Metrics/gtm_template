@@ -15,8 +15,6 @@
 **Methods:**
 - _injectScript(url, onSuccess, onFailure[, cacheToken])_<br>Adds a script tag to the page to asynchronously load the provided URL. Callbacks are in the form of function instances wrapped in JavaScript function calls.
 
-- _generateRandom(min, max)_<br>Returns a random integer from the specified range.
-
 - _encodeUriComponent(str)_<br>Returns an encoded uniform resource identifier (URI) with escaped special characters. The returned string is the result of encoding the resulting string into a URI format.
 
 **Permissions:**
